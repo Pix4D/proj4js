@@ -1,5 +1,7 @@
-Change log
-===
+# Change log
+
+- 2.5.3: Use TOWGS84 parameters provided in the CRS instead of only pre-defined datum transformations
+
 - 2.2.1: Documentation fixes and added proj4.defs('name') as an alias for proj4.defs['name'];
 
 - 2.1.4: dist folder is added back in after accidentally omitting it in 2.1.1
@@ -14,7 +16,7 @@ Change log
 
 - 2.0.3: mgrs is broken out into it's own module loaded via npm.
 
-- 2.0.2: module common is broken up into a collection of smaller modules. 
+- 2.0.2: module common is broken up into a collection of smaller modules.
 
 - 2.0.1: fix typo in eqc projection.
 
