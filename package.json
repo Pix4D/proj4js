@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/proj4js/proj4js.git"
+    "url": "https://github.com/Pix4D/proj4js"
   },
   "author": "",
   "license": "MIT",
